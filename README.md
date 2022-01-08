@@ -4,6 +4,12 @@
 
 ### Visit : [@MyShop](https://mbganesh.github.io/my_shop/)
 
+### Social Media
+
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZZOZbnQCNZ1mh3OcsaBXVQ?label=Youtube%20Total%20View&style=for-the-badge">
+
+
+
 
 ## Sample Screens
 
